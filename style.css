@@ -24,5 +24,6 @@ body {
 
   li {
       margin-left: 10px;
+      list-style: decimal;
   }
   
